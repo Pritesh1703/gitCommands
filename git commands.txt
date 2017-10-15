@@ -1,0 +1,7 @@
+git init
+git add
+git commit
+git commit -am "comment"
+git remote add origin "origin name"
+git push -u origin master
+git pull origin master
