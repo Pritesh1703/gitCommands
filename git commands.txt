@@ -8,9 +8,6 @@ git remote add origin "origin name"
 git push -u origin master
 git pull origin master
 
-****************************************
-
-****************************************
 //Git other commands
 
 git status
@@ -19,7 +16,10 @@ git diff <head>
 git reset "filename"
 git checkout --<text>
 
+//Git branch commands
 
-******************************************
-
-******************************************
+git branch "branch name"
+git checkout "branch name"
+git rm "file name/file type using wildcard"
+git merge "branch name"
+git branch -d "branch name"
