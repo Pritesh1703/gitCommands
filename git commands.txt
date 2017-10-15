@@ -1,5 +1,7 @@
+//Git commands
+
 git init
-git add
+git add "filename" or git add -all
 git commit
 git commit -am "comment"
 git remote add origin "origin name"
